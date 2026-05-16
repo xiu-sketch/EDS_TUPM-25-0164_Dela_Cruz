@@ -104,4 +104,4 @@ All plots and the analytics report are saved to the `outputs/` folder automatica
 ---
 
 ## IEEE Paper Title
-*An Automated Data Analytics Pipeline for Wind Turbine Power Curve Deviation Detection Using SCADA Measurements*
+*Wind Turbine Power Curve Deviation Analysis Using SCADA-Based Modeling*
