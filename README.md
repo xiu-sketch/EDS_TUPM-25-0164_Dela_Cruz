@@ -1,4 +1,4 @@
-# EDS_[StudentNumber]_[Surname]
+# EDS_[TUPM-25-0164]_[Dela Cruz]
 ## REN-01: Wind Turbine Power Curve Deviation Analysis
 **Pillar 4 — Renewable Energy Systems**
 
@@ -15,7 +15,7 @@ This project implements a production-grade Python data analytics pipeline to ana
 
 ## Repository Structure
 ```
-EDS_[StudentNumber]_[Surname]/
+EDS_[TUPM-25-0164]_[Dela Cruz]/
 │
 ├── main.py                   # Full Python analytics pipeline
 ├── requirements.txt          # Required Python libraries
